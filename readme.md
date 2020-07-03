@@ -1,6 +1,8 @@
 # Healthy Now! Company Homepage version 1.0
 
-- [Live Healthy Now!](https://heggy231.github.io/AboutMyCompany/)
+- [Live Demo: Healthy Now!](https://heggy231.github.io/AboutMyCompany/)
+
+## [Blog](https://dev.to/heggy231/flexbox-with-my-fictional-company-home-page-1ibo) on Dev.to lesson learned
 
 ## Technology used
 
