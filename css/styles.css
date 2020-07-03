@@ -189,12 +189,14 @@ nav a {
   h5 {
     margin-bottom: 0;
   }
+  
   .gallery-item, .cards .col {
     margin: 0px;
     padding: 0px;
   }
-  .page-description {
-    font-size: 0.8rem;
+
+  .page-description, .staff-intro {
+    font-size: 1.8rem;
   }
 
   figure {
@@ -209,9 +211,4 @@ nav a {
   .gallery-item .thumbnail, .cards .col {
     width: 95%;
   }
-
-  .staff-intro {
-    font-size: .8rem;
-  }
-
 }
