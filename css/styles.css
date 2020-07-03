@@ -185,6 +185,12 @@ nav a {
 
 @media only screen and (min-width: 320px) and (max-width: 480px), (orientation: portrait) {
   /* ruleset for 320px - 480px */
+  /* Nav */
+
+  #top-nav, nav {
+    font-size: 2rem;
+    line-height: 2.7rem;
+  }
 
   h5 {
     margin-bottom: 0;
